@@ -1,0 +1,5 @@
+[OSD]
+Enabled=true
+
+[PlasmaToolTips]
+Delay=0.7
