@@ -1,0 +1,12 @@
+[Common]
+OutlineCloseButton=false
+OutlineCloseButton=false
+ShadowStrength=89
+ShadowStrength=89
+
+[Style]
+MenuOpacity=20
+
+[Windeco]
+DrawBackgroundGradient=false
+DrawBackgroundGradient=false
