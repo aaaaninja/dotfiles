@@ -1,0 +1,5 @@
+[user]
+	email = aaaaninja@aaaa.ninja
+	name = aaaaninja
+[core]
+	pager = delta --dark
