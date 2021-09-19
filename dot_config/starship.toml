@@ -1,0 +1,18 @@
+[git_status]
+conflicted = "🏳"
+ahead = "🏎💨"
+behind = "😰"
+diverged = "😵"
+untracked = "🤷"
+stashed = "📦"
+modified = "📝"
+renamed = "👅"
+deleted = "🗑"
+conflicted_count.enabled = true
+conflicted_count.style = true
+untracked_count.enabled = true
+stashed_count.enabled = true
+modified_count.enabled = true
+renamed_count.enabled = true
+deleted_count.enabled = true
+show_sync_count = false

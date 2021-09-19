@@ -1,0 +1,8 @@
+[Libinput][2][7][SynPS/2 Synaptics TouchPad]
+NaturalScroll=true
+PointerAcceleration=0.400
+TapToClick=true
+
+[Mouse]
+XLbInptAccelProfileFlat=false
+XLbInptPointerAcceleration=1
