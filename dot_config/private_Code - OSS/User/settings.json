@@ -1,0 +1,30 @@
+{
+    "editor.fontFamily": "'Victor Mono', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.fontLigatures": true,
+    "window.titleBarStyle": "native", // cannot apply transparent if style is `custom`
+    "window.menuBarVisibility": "hidden",
+    "workbench.sideBar.location": "right",
+    "workbench.colorCustomizations": {
+        "workbench.background": "#00000080", //main
+
+        "activityBar.background": "#00000040",
+        "button.background": "#00000040", //main
+        "button.hoverBackground": "#00000080",
+
+        "editor.background": "#00000000"
+    },
+    "workbench.colorTheme": "Monokai",
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "terminal.integrated.fontSize": 8,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.jediEnabled": false,
+    "editor.lineNumbers": "relative",
+    "vscode-neovim.neovimPath": "nvim",
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
